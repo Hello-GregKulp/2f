@@ -1,2 +1,2 @@
-# failing-father
-Failing Father is a simple one pager to uplift fathers with positive messages and direct resources.
+# Failing Father [2F]
+React based one pager to uplift fathers with positive messaging and direct resources. Passion project.
